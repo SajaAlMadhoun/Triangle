@@ -1,3 +1,5 @@
+//https://www.youtube.com/watch?v=-FLeu2f_bXA&feature=youtu.be
+//فيديو لشرح كيفية كتابة هذا الكود 
 import java.util.Scanner;
 public class Triangle {
 
